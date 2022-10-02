@@ -6,10 +6,10 @@
 
 ### Connect with me:
 
-[<img style="fill: red;" align="left" alt="FARRUKH | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img style="fill: red;"  align="left" alt="FARRUKH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img style="fill: red;"  align="left" alt="FARRUKH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img style="fill: red;"  align="left" alt="FARRUKH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />][facebook]
+[<img style="fill: red; color: red;" align="left" alt="FARRUKH | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img style="fill: red; color: red;"  align="left" alt="FARRUKH | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img style="fill: red; color: red;"  align="left" alt="FARRUKH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img style="fill: red; color: red;"  align="left" alt="FARRUKH | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.5.0/icons/facebook.svg" />][facebook]
 
 <br/><br/>
 Here are some tools I am currently using + ever worked with.
