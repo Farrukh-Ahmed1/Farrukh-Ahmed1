@@ -115,6 +115,10 @@
 
 <br clear="both">
 
+<h2 align="left">Doin' Deeds: My Contribution Chronicles! 🎉💪</h2>
+
+###
+
 <img src="https://raw.githubusercontent.com/Farrukh-Ahmed1/Farrukh-Ahmed1/output/snake.svg" alt="Snake animation" />
 
 ###
