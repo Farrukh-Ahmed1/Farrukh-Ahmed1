@@ -1,8 +1,8 @@
-<h1 align="left">Introduction! 🙌</h1>
+<h1 align="left">Hey Visitor👋 I'm Farrukh Ahmed!</h1>
 
 ###
 
-<h2 align="left">Hey there! 👋 I'm Farrukh Ahmed, a Software Engineer and Cloud Enthusiast riding the coding waves from the heart of Pakistan. 🚀 I'm all about turning ideas into working software magic! 💻✨</h2>
+<p align="left">😎 Full-Stack Wizard in the Digital Realm 💻🚀<br>🔭 Juggling multiple projects and thriving! 💪💼<br>🌱 Diving deep into the realms of Web3 & Metaverse 🌐✨<br>👯 Seeking dynamic collaborations with fellow content creators<br>🥅 2024 Aspirations: Attain Cloud Architect Mastery & Master Web3 Sorcery<br>⚡ Fun Fact: Coding & gaming aficionado, with killer humour! 😂💀</p>
 
 ###
 
@@ -16,7 +16,7 @@
 
 <br clear="both">
 
-<h2 align="left">Software Maestro 🔧🖥️</h2>
+<h2 align="left">Languages, Framework & Tools🔧🖥️</h2>
 
 ###
 
@@ -116,5 +116,19 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Farrukh-Ahmed1/Farrukh-Ahmed1/output/snake.svg" alt="Snake animation" />
+
+###
+
+<br clear="both">
+
+<h2 align="left">🔍 Spyin' eyes on my profile fiesta! 🎭👀</h2>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/Farrukh-Ahmed1/count.svg?"  />
+</div>
 
 ###
