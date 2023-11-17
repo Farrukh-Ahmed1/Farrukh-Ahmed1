@@ -1,3 +1,7 @@
+<h1 align="left">Introduction! 🙌</h1>
+
+###
+
 <h2 align="left">Hey there! 👋 I'm Farrukh Ahmed, a Software Engineer and Cloud Enthusiast riding the coding waves from the heart of Pakistan. 🚀 I'm all about turning ideas into working software magic! 💻✨</h2>
 
 ###
