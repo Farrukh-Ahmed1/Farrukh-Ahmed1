@@ -11,11 +11,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Farrukh-Ahmed1&locale=en&mode=daily&theme=codeSTACKr&hide_border=true&border_radius=5&date_format=%5BY.%5Dn.j" height="150" alt="streak graph" /> 
-  <img src="https://github-readme-stats.vercel.app/api?username=Farrukh-Ahmed1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&custom_title=My%20Code%20Odyssey%F0%9F%9A%80%F0%9F%93%8A" height="150" alt="stats graph" />
-</div>
-<br>
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Farrukh-Ahmed1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=codeSTACKr&hide_border=false&custom_title=%20Coding%20Arsenal%20%F0%9F%9A%80%F0%9F%92%BB" height="150" alt="languages graph" />
 </div>
 
