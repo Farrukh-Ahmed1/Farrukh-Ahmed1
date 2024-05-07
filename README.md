@@ -1,4 +1,4 @@
-<h1 align="left">Hey Visitor👋 I'm Farrukh Ahmed!</h1>
+<h1 align="left">Hey Visitor👋</h1>
 
 ###
 
