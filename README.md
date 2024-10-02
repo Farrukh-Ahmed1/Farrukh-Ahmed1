@@ -2,25 +2,11 @@
 
 ###
 
-<p align="left">😎 Full-Stack Wizard in the Digital Realm 💻🚀<br>🔭 Juggling multiple projects and thriving! 💪💼<br>🌱 Diving deep into the realms of Web3 & Metaverse 🌐✨<br>👯 Seeking dynamic collaborations with fellow content creators<br>🥅 2024 Aspirations: Attain Cloud Architect Mastery & Master Web3 Sorcery<br>⚡ Fun Fact: Coding & gaming aficionado, with killer humour! 😂💀</p>
-
-###
-
-<h2 align="left">My Code Escapade! 💻📊</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Farrukh-Ahmed1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=100&theme=codeSTACKr&hide_border=false&custom_title=%20Coding%20Arsenal%20%F0%9F%9A%80%F0%9F%92%BB" height="150" alt="languages graph" />
-</div>
-
-</div>
-
-###
+<p align="left">💻 Full-Stack Developer | Backend, DevOps & Cloud<br>🔭 Juggling multiple projects and thriving! 💪💼<br>🌱 Focused on backend development, DevOps, and AWS.<br>📈 Committed to clean code, optimized APIs, and cloud-native solutions.<br>🥅 2024 Goals: Master backend systems and cloud solutions. 🎯☁️<br>⚡ Fun Fact: Always exploring new tech and finding creative solutions to complex problems. 🧠✨</p>
 
 <br clear="both">
 
-<h2 align="left">Languages, Framework & Tools🔧🖥️</h2>
+<h2 align="left">Languages, Framework & Tools I've ever worked with🔧🖥️</h2>
 
 ###
 
@@ -53,11 +39,11 @@
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="40" alt="mysql logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="40" alt="microsoftsqlserver logo"  />
+  <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="40" alt="microsoftsqlserver logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="40" alt="mongodb logo"  />
   <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://img.icons8.com/?size=100&id=CIAZz2CYc6Kc&format=png&color=000000" height="40" alt="tailwindcss logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
   <img width="10" />
@@ -90,6 +76,49 @@
 
 <br clear="both">
 
+<h2 align="left">Tech Stack: Tools I'm currently using 🛠️  </h2>
+
+###
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Technologies</th>
+  </tr>
+  <tr>
+    <td>🎨 <strong>FrontEnd</strong></td>
+    <td>HTML, CSS/SCSS/SASS, Tailwind CSS, ReactStrap, Material-UI, React.js, Next.js</td>
+  </tr>
+  <tr>
+    <td>🖥️ <strong>BackEnd</strong></td>
+    <td>Node.js, Express.js, Nest.js, React Native</td>
+  </tr>
+  <tr>
+    <td>🗄️ <strong>Databases</strong></td>
+    <td>PostgreSQL, SQL Server, MySQL, SQLite, MongoDB, Firebase, DynamoDB</td>
+  </tr>
+  <tr>
+    <td>💻 <strong>Programming Languages</strong></td>
+    <td>JavaScript, TypeScript</td>
+  </tr>
+<tr>
+    <td>🔗 <strong>ORM</strong></td>
+    <td>Prisma, TypeORM, Mongoose</td>
+  </tr>
+  <tr>
+    <td>🛠️ <strong>Version Control</strong></td>
+    <td>Git, GitHub</td>
+  </tr>
+  <tr>
+    <td>⚙️ <strong>DevOps & Cloud</strong></td>
+    <td>GitHub Actions, Docker, Kubernetes, AWS</td>
+  </tr>
+</table>
+
+###
+
+<br clear="both">
+
 <h2 align="left">Ping me anytime🌟</h2>
 
 ###
@@ -115,28 +144,4 @@
   </a>
 </div>
 
-###
-
-<br clear="both">
-
-<h2 align="left">Doin' Deeds: My Contribution Chronicles! 🎉💪</h2>
-
-###
-
-<img src="https://raw.githubusercontent.com/Farrukh-Ahmed1/Farrukh-Ahmed1/output/snake.svg" alt="Snake animation" />
-
-###
-
-<br clear="both">
-
-<h2 align="left">🔍 Spyin' eyes on my profile fiesta! 🎭👀</h2>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Farrukh-Ahmed1/count.svg?"  />
-</div>
-
-###
+### 
